@@ -1,0 +1,24 @@
+.Header {
+    min-height: 300px;
+    .Header__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100%;
+    }
+    .Header__container {
+        padding: 0 30px;
+    }
+    .Header__title {
+        font-size: 1.5rem;
+        text-indent: 0;
+        line-height: 1.2;
+        margin: 0 0 15px 0;
+        // margin: 6*0.5rem auto 0;
+    }
+    .Header__subtitle {
+        font-size: 2.5rem;
+        line-height: 1.1;
+        text-indent: -0.15rem;
+    }
+}
