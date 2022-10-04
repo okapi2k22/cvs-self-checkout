@@ -1,1 +1,1 @@
-# personas
+# CVS Self-Checkout - Personas and Storyboarding
