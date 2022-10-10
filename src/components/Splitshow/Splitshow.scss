@@ -1,0 +1,23 @@
+.Splitshow {
+    .Splitshow__content {
+        padding: 300px 0;
+    }
+    .Splitshow__container {
+        padding: 0 100px;
+    }
+
+    .Splitshow__items {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: -24px -12px;
+    }
+
+    .Splitshow__columns {
+        flex: 1;
+    }
+
+    .Splitshow__item {
+        margin: 24px 12px;
+    }
+}
