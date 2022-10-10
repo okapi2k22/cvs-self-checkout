@@ -1,6 +1,6 @@
 {
   "name": "cvs-self-checkout",
-  "homepage": "/cvs-self-checkout",
+  "homepage": "https://okapi2k22.github.io/cvs-self-checkout",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
