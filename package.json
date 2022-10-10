@@ -1,5 +1,6 @@
 {
   "name": "cvs-self-checkout",
+  "homepage": "/cvs-self-checkout",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
